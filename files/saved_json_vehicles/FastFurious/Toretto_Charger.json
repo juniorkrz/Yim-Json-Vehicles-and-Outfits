@@ -1,0 +1,73 @@
+{
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        0,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        3,
+        0
+    ],
+    "MOD_HOOD": [
+        4,
+        0
+    ],
+    "MOD_ROOF": [
+        0,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 0,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "TORETTO",
+    "plate_text_index": 1,
+    "primary_color": 12,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 12,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 723973206,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 1
+}

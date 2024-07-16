@@ -1,0 +1,121 @@
+{
+    "": "TOGGLE",
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        11,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        5,
+        1
+    ],
+    "MOD_GRILLE": [
+        13,
+        0
+    ],
+    "MOD_HOOD": [
+        10,
+        0
+    ],
+    "MOD_HORNS": [
+        57,
+        0
+    ],
+    "MOD_LIVERY": [
+        3,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        3,
+        0
+    ],
+    "MOD_ROOF": [
+        7,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        4,
+        0
+    ],
+    "MOD_SPOILERS": [
+        7,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        4,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        3,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "custom_primary_color": [
+        0,
+        255,
+        40
+    ],
+    "custom_secondary_color": [
+        131,
+        255,
+        0
+    ],
+    "dash_color": 92,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 4,
+    "interior_color": 92,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        94,
+        255,
+        1
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 145,
+    "plate_text": " DUSHA  ",
+    "plate_text_index": 10,
+    "primary_color": 1,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 121,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3126015148,
+    "vehicle_window_tint": 6,
+    "wheel_color": 74,
+    "wheel_type": 3
+}

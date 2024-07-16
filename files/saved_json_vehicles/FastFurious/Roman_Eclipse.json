@@ -1,0 +1,94 @@
+{
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        4,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRAME": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        23,
+        0
+    ],
+    "MOD_GRILLE": [
+        6,
+        0
+    ],
+    "MOD_HOOD": [
+        7,
+        0
+    ],
+    "MOD_LIVERY": [
+        10,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        6,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 0,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        222,
+        222,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 74,
+    "plate_text": "PEARCE",
+    "plate_text_index": 1,
+    "primary_color": 145,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 0,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3663644634,
+    "vehicle_window_tint": 0,
+    "wheel_color": 122,
+    "wheel_type": 12
+}

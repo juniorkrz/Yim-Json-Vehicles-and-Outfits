@@ -1,0 +1,85 @@
+{
+    "MOD_ARMOR": [
+        2,
+        0
+    ],
+    "MOD_BRAKES": [
+        1,
+        0
+    ],
+    "MOD_ENGINE": [
+        1,
+        0
+    ],
+    "MOD_EXHAUST": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_HOOD": [
+        2,
+        0
+    ],
+    "MOD_HORNS": [
+        8,
+        0
+    ],
+    "MOD_ROOF": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        3,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        1,
+        0
+    ],
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 73,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 0,
+    "interior_color": 111,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        2,
+        21,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 68,
+    "plate_text": "KRZMENU",
+    "plate_text_index": 1,
+    "primary_color": 62,
+    "radio_station": "RADIO_36_AUDIOPLAYER",
+    "secondary_color": 147,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1939284556,
+    "vehicle_window_tint": 1,
+    "wheel_color": 0,
+    "wheel_type": 0
+}

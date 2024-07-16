@@ -1,0 +1,105 @@
+{
+    "MOD_AIRFILTER": [
+        9,
+        0
+    ],
+    "MOD_DASHBOARD": [
+        0,
+        0
+    ],
+    "MOD_ENGINEBLOCK": [
+        2,
+        0
+    ],
+    "MOD_EXHAUST": [
+        2,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        0,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        14,
+        0
+    ],
+    "MOD_LIVERY": [
+        11,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        0,
+        0
+    ],
+    "MOD_ROOF": [
+        2,
+        0
+    ],
+    "MOD_SEATS": [
+        10,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        10,
+        0
+    ],
+    "MOD_SPOILERS": [
+        13,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        3,
+        0
+    ],
+    "MOD_STRUTS": [
+        18,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 111,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 3,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        150,
+        5
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 88,
+    "plate_text": "MARIMOTO",
+    "plate_text_index": 1,
+    "primary_color": 97,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 94,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 821121576,
+    "vehicle_window_tint": 0,
+    "wheel_color": 109,
+    "wheel_type": 12
+}

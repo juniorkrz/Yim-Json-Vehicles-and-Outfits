@@ -1,0 +1,107 @@
+{
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_DASHBOARD": [
+        3,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        8,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        27,
+        0
+    ],
+    "MOD_GRILLE": [
+        2,
+        0
+    ],
+    "MOD_LIVERY": [
+        6,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        4,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SEATS": [
+        11,
+        0
+    ],
+    "MOD_SPOILERS": [
+        4,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        1,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_VANITYPLATES": [
+        0,
+        0
+    ],
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "convertable_state": 0,
+    "dash_color": 111,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 0,
+    "interior_color": 137,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        5,
+        190
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 3,
+    "plate_text": "SUKI",
+    "plate_text_index": 1,
+    "primary_color": 137,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 137,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3842363289,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 11
+}

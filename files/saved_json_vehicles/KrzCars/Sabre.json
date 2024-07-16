@@ -1,0 +1,150 @@
+{
+    "MOD_AIRFILTER": [
+        2,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_COLUMNSHIFTERLEVERS": [
+        0,
+        0
+    ],
+    "MOD_DIALDESIGN": [
+        13,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_ENGINEBLOCK": [
+        6,
+        0
+    ],
+    "MOD_EXHAUST": [
+        2,
+        0
+    ],
+    "MOD_FRAME": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        60,
+        0
+    ],
+    "MOD_GRILLE": [
+        1,
+        0
+    ],
+    "MOD_HOOD": [
+        3,
+        0
+    ],
+    "MOD_HORNS": [
+        33,
+        0
+    ],
+    "MOD_HYDRAULICS": [
+        3,
+        0
+    ],
+    "MOD_LIVERY": [
+        6,
+        0
+    ],
+    "MOD_ORNAMENTS": [
+        1,
+        0
+    ],
+    "MOD_PLAQUES": [
+        21,
+        0
+    ],
+    "MOD_PLATEHOLDER": [
+        2,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        0,
+        0
+    ],
+    "MOD_REARWHEEL": [
+        3,
+        0
+    ],
+    "MOD_SPEAKERS": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        0,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        11,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TRIMDESIGN": [
+        2,
+        0
+    ],
+    "MOD_TRUNK": [
+        4,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 67,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 31,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 37,
+    "plate_text": "KRZMENU",
+    "plate_text_index": 1,
+    "primary_color": 38,
+    "radio_station": "OFF",
+    "secondary_color": 38,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 223258115,
+    "vehicle_window_tint": 0,
+    "wheel_color": 90,
+    "wheel_type": 9
+}

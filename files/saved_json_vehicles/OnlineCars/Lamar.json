@@ -1,0 +1,74 @@
+{
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        17,
+        1
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 132,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "LAMAR G ",
+    "plate_text_index": 12,
+    "primary_color": 53,
+    "radio_station": "RADIO_20_THELAB",
+    "secondary_color": 0,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [
+        [
+            10,
+            false
+        ],
+        [
+            11,
+            true
+        ],
+        [
+            12,
+            true
+        ]
+    ],
+    "vehicle_model_hash": 3609690755,
+    "vehicle_window_tint": 3,
+    "wheel_color": 156,
+    "wheel_type": 2
+}

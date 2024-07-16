@@ -1,0 +1,40 @@
+{
+    "MOD_TIRESMOKE": "TOGGLE",
+    "clan_logo": 0,
+    "dash_color": 0,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        0,
+        0,
+        0
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 111,
+    "plate_text": "KRZMENU",
+    "plate_text_index": 1,
+    "primary_color": 111,
+    "radio_station": "RADIO_34_DLC_HEI4_KULT",
+    "secondary_color": 111,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        0,
+        0,
+        0
+    ],
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 743478836,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 6
+}

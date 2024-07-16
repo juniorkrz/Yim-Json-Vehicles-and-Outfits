@@ -1,0 +1,74 @@
+{
+    "MOD_ARMOR": [
+        2,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRAME": [
+        0,
+        0
+    ],
+    "MOD_LIVERY": [
+        0,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        0,
+        0
+    ],
+    "MOD_ROOF": [
+        0,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "clan_logo": 0,
+    "custom_primary_color": [
+        40,
+        247,
+        57
+    ],
+    "custom_secondary_color": [
+        40,
+        247,
+        57
+    ],
+    "dash_color": 132,
+    "drift_tires": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        0,
+        0,
+        0
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "KRZMENU",
+    "plate_text_index": 1,
+    "primary_color": 13,
+    "radio_station": "RADIO_14_DANCE_02",
+    "secondary_color": 8,
+    "tire_can_burst": 0,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2859440138,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 0
+}

@@ -9,6 +9,11 @@ powershell -Command "try { $response = Invoke-WebRequest -Uri 'https://github.co
 
 This will download all files from the [files](/files) folder to the root of YimMenu.
 
+## Showcase
+
+<img align="center" width="500px" src="./img/cars2.png">
+<img align="center" width="500px" src="./img/cars.png">
+
 ## Credits
 
 - [Juniorkrz](https://github.com/juniorkrz): Vehicles, outfits & scripting
